@@ -12,6 +12,7 @@ struct BMIformulaApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            
         }
     }
 }
