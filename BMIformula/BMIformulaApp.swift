@@ -7,7 +7,6 @@
 
 import SwiftUI
 
-
 @main
 struct BMIformulaApp: App {
     var body: some Scene {
